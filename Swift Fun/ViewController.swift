@@ -3,7 +3,8 @@
 //  Swift Fun
 //
 //  Created by Juan Saco on 3/28/18.
-//  Copyright © 2018 Juan Saco Mironoff. All rights reserved.
+//  Copyright © 2018 Juan Saco Mironoff. All rights reserved..
+//
 //
 
 import UIKit
